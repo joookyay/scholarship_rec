@@ -21,7 +21,7 @@ Tool: Jupyter Notebook
 ## 🤖 연구내용
 1. 장학금들이 어떤 요소들을 기반으로 유사도를 이루고 있는지 파악
 - PCA/Hierarchical clustering
-<img src="https://user-images.githubusercontent.com/76192858/212941798-13e0dfe8-77e4-4f19-babc-4aed5f542229.png" width="600" height="300"/> 
+<img src="https://user-images.githubusercontent.com/76192858/212941798-13e0dfe8-77e4-4f19-babc-4aed5f542229.png"> 
 ![image](https://user-images.githubusercontent.com/76192858/212942113-87fec62c-9bc8-4820-9d36-48cfb400f6c9.png)
 
 - 
