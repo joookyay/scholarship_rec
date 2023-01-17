@@ -15,14 +15,11 @@
 언어: Python<br>
 Tool: Jupyter Notebook
 
-## 📅 개발기간
+## 📅 연구기간
 2021.11 - 2022.01
 
-## 🤖 알고리즘 소개
-스팀게임 API를 사용하여 실시간으로 유저의 게임 플레이 데이터 정보 수집<br>
-NLP기법 중 하나인 TF-IDF 방법을 사용하여 Elastic Cloud에 저장된 인기게임들과 코사인 유사도를 측정<br>
-게임 플레이 시간이 가장 긴 5개의 게임과 유사도가 가장 높은 Top5게임 추천
- 
+## 🤖 연구내용
+
 
 ![image](https://user-images.githubusercontent.com/76192858/212939454-3eaf3262-7285-445e-a968-f505f0b60e20.png)
 
