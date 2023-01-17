@@ -26,7 +26,8 @@ Tool: Jupyter Notebook
 
 ![image](https://user-images.githubusercontent.com/76192858/212942530-f6637b12-0a42-4412-8f48-22094cbd666d.png)
 
-- 
+- K-means clustering
+![image](https://user-images.githubusercontent.com/76192858/212942708-40a841a5-308a-4eab-8162-435ee9eb3a3c.png)
 
 
 ### 2. 시기별, 학과별, 지도교수별 장학금 수혜 분포 파악
