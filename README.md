@@ -20,6 +20,9 @@ Tool: Jupyter Notebook
 
 ## 🤖 연구내용
 
-### 추천 알고리즘 제안
+### 2. 시기별, 학과별, 지도교수별 장학금 수혜 분포 파악
+<img src="https://user-images.githubusercontent.com/76192858/212941503-e25faa69-6a62-41d6-91bb-d48a84fe8a9b.png" width="600" height="300"/> 
+
+### 3. 추천 알고리즘 제안
 <img src="https://user-images.githubusercontent.com/76192858/212939454-3eaf3262-7285-445e-a968-f505f0b60e20.png" width="600" height="300"/> 
 
